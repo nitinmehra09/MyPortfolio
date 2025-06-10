@@ -57,7 +57,7 @@ const Navbar: React.FC<NavbarProps> = ({ theme, toggleTheme }) => {
         <div className="flex items-center justify-between h-16">
           <div className="flex-shrink-0">
             <a href="#home" className="text-portfolio-highlight font-bold text-xl">
-              NM
+              NITIN MEHRA
             </a>
           </div>
           <div className="hidden md:block">
