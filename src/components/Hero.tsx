@@ -48,7 +48,7 @@ const Hero: React.FC = () => {
         <div className="mb-12 relative">
           <div className="w-48 h-48 sm:w-56 sm:h-56 md:w-64 md:h-64 rounded-full overflow-hidden border-4 border-portfolio-highlight relative z-10">
             <img 
-              src="https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=500&h=500&dpr=2"
+              src="/src/assets/WhatsApp Image 2025-05-20 at 00.02.50_207065c3 copy copy.jpg"
               alt="Nitin Mehra" 
               className="w-full h-full object-cover"
             />
