@@ -68,4 +68,3 @@ This project is open-source and available under the [MIT License](LICENSE) *(opt
 > Feel free to fork this repo, customize it, and use it as inspiration for your own portfolio!
 
 ```
-```
