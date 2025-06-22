@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from 'react';
 import { Github, Linkedin, ChevronDown } from 'lucide-react';
-import image from 'url:./src/assets/WhatsApp Image 2025-05-20 at 00.02.50_207065c3 copy copy.jpg'
+import image from 'url:./src/assets/photo.jpg'
 
 const Hero: React.FC = () => {
   const heroRef = useRef<HTMLDivElement>(null);
